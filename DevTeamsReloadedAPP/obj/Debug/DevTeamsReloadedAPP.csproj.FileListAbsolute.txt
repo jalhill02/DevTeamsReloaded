@@ -1,0 +1,10 @@
+C:\Users\jalhi\source\repos\DevTeamsReloadedAPP\DevTeamsReloadedAPP\bin\Debug\DevTeamsReloadedAPP.exe.config
+C:\Users\jalhi\source\repos\DevTeamsReloadedAPP\DevTeamsReloadedAPP\bin\Debug\DevTeamsReloadedAPP.exe
+C:\Users\jalhi\source\repos\DevTeamsReloadedAPP\DevTeamsReloadedAPP\bin\Debug\DevTeamsReloadedAPP.pdb
+C:\Users\jalhi\source\repos\DevTeamsReloadedAPP\DevTeamsReloadedAPP\bin\Debug\DevTeamsClassLib.dll
+C:\Users\jalhi\source\repos\DevTeamsReloadedAPP\DevTeamsReloadedAPP\bin\Debug\DevTeamsClassLib.pdb
+C:\Users\jalhi\source\repos\DevTeamsReloadedAPP\DevTeamsReloadedAPP\obj\Debug\DevTeamsReloadedAPP.csprojAssemblyReference.cache
+C:\Users\jalhi\source\repos\DevTeamsReloadedAPP\DevTeamsReloadedAPP\obj\Debug\DevTeamsReloadedAPP.csproj.CoreCompileInputs.cache
+C:\Users\jalhi\source\repos\DevTeamsReloadedAPP\DevTeamsReloadedAPP\obj\Debug\DevTeamsReloadedAPP.csproj.CopyComplete
+C:\Users\jalhi\source\repos\DevTeamsReloadedAPP\DevTeamsReloadedAPP\obj\Debug\DevTeamsReloadedAPP.exe
+C:\Users\jalhi\source\repos\DevTeamsReloadedAPP\DevTeamsReloadedAPP\obj\Debug\DevTeamsReloadedAPP.pdb

@@ -1,0 +1,6 @@
+C:\Users\jalhi\source\repos\DevTeamsReloadedAPP\DevTeamsClassLib\bin\Debug\DevTeamsClassLib.dll
+C:\Users\jalhi\source\repos\DevTeamsReloadedAPP\DevTeamsClassLib\bin\Debug\DevTeamsClassLib.pdb
+C:\Users\jalhi\source\repos\DevTeamsReloadedAPP\DevTeamsClassLib\obj\Debug\DevTeamsClassLib.csproj.CoreCompileInputs.cache
+C:\Users\jalhi\source\repos\DevTeamsReloadedAPP\DevTeamsClassLib\obj\Debug\DevTeamsClassLib.dll
+C:\Users\jalhi\source\repos\DevTeamsReloadedAPP\DevTeamsClassLib\obj\Debug\DevTeamsClassLib.pdb
+C:\Users\jalhi\source\repos\DevTeamsReloadedAPP\DevTeamsClassLib\obj\Debug\DevTeamsClassLib.csprojAssemblyReference.cache
